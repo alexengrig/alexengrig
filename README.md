@@ -1,6 +1,10 @@
 ### Interesting
 
 -   [myjdi](https://github.com/alexengrig/myjdi)
+-   [notigram](https://github.com/alexengrig/notigram)
+-   [structures](https://github.com/alexengrig/structures)
+-   [algorithms](https://github.com/alexengrig/algorithms)
+-   [design-patterns](https://github.com/alexengrig/design-patterns)
 
 <!--
 **alexengrig/alexengrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
