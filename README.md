@@ -1,6 +1,7 @@
 ### Interesting
 
--   [myjdi](https://github.com/alexengrig/myjdi)
+-   [mydii](https://github.com/alexengrig/mydii) - Dependency Injection implementation
+-   [myjdi](https://github.com/alexengrig/myjdi) - Java Debug Interface implementation
 -   [notigram](https://github.com/alexengrig/notigram)
 -   [structures](https://github.com/alexengrig/structures)
 -   [algorithms](https://github.com/alexengrig/algorithms)
