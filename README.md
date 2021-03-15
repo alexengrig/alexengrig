@@ -1,7 +1,7 @@
 ### Released
 
--   [lambdax](https://github.com/alexengrig/lambdax) - Java 8 lambdas extension
--   [metter](https://github.com/alexengrig/metter) - Getter and setter generator in Java
+-   [LambdaX <img src="https://github.com/alexengrig/lambdax/blob/master/docs/images/logo.png" height="25"/>](https://github.com/alexengrig/lambdax) - Java 8 lambdas extension
+-   [metter <img src="https://github.com/alexengrig/metter/blob/master/docs/images/metter-logo.png" height="25"/>](https://github.com/alexengrig/metter) - Getter and setter generator in Java
 -   [codecov-maven-plugin](https://github.com/alexengrig/codecov-maven-plugin) - Codecov Maven plugin
 -   [deslice](https://github.com/alexengrig/deslice) - Double-ended slice method of array in JavaScript
 
