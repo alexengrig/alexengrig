@@ -23,9 +23,9 @@
 -   [notigram](https://github.com/alexengrig/notigram) - Telegram bot
 -   [my-http-server](https://github.com/alexengrig/my-http-server) - HTTP server
 
-  
-#### [Sample projects](https://github.com/alexengrig?tab=repositories&q=sample)
-  
+
+#### [Released projects](https://github.com/alexengrig?tab=repositories&q=released)
+#### [Sample projects](https://github.com/alexengrig?tab=repositories&q=sample)  
 #### [Incubator projects](https://github.com/alexengrig?tab=repositories&q=incubator)
 
 <!--
