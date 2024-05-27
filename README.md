@@ -1,6 +1,6 @@
-- [Released projects](https://github.com/alexengrig?tab=repositories&q=released)
-- [Sample projects](https://github.com/alexengrig?tab=repositories&q=sample)  
-- [Incubator projects](https://github.com/alexengrig?tab=repositories&q=incubator)
+## Hi All 👋
+
+I'm a Software Engineer who loves developing stuff for Software Developers and Engineers 🧑‍💻👷
 
 <!--
 **alexengrig/alexengrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
